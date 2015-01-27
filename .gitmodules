@@ -1,0 +1,6 @@
+[submodule "Phaser"]
+	path = Phaser
+	url = https://github.com/photonstorm/phaser
+[submodule "Blockly"]
+	path = Blockly
+	url = https://github.com/google/blockly
